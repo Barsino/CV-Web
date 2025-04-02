@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link href="../code/css/styles.css" rel="stylesheet" type="text/css">
+  <!-- TODO -> Fonts -->
+</head>
+<body>
+  <nav>
+    <ul>
+      <img src="../assets/img/Logo_azul.png" alt="Logo" class="menu_logo">
+      <li><a href="#start">Start</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#proyects">Proyect</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section id="start">
+    <div class="gif-container">
+      <img src="../assets/img/Logo_azul.png" alt="Fondo animado">
+    </div>
+    <div class="start-text">
+      <h1>Hola, soy [Tu Nombre]</h1>
+      <p>Estudiante de Programación de Videojuegos</p>
+    </div>
+  </section>
+
+  <section id="about">
+    <h2>Sobre Mí</h2>
+    <p>Aquí puedes agregar una breve descripción sobre ti, tus estudios, habilidades y objetivos.</p>
+    <!-- Puedes incluir un enlace para descargar tu CV -->
+    <a href="CV.pdf" download>Descargar CV</a>
+  </section>
+
+  <section id="proyects">
+    <h2>Proyectos</h2>
+    <div class="galery">
+      <!-- Proyecto 1 -->
+      <div class="proyect">
+        <img src="../assets/img/Screenshot 2024-06-17 163152.png" alt="Proyecto 1">
+        <h3>Nombre del Proyecto 1</h3>
+        <button onclick="abrirProyecto('proyecto1.html')">Ver Más</button>
+      </div>
+      <!-- Proyecto 2 -->
+      <div class="proyect">
+        <img src="../assets/img/Screenshot 2024-06-17 163219.png" alt="Proyecto 2">
+        <h3>Nombre del Proyecto 2</h3>
+        <button onclick="abrirProyecto('proyecto2.html')">Ver Más</button>
+      </div>
+      <!-- Agrega más proyectos según necesites -->
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contacto</h2>
+    <form action="mailto:tucorreo@example.com" method="post" enctype="text/plain">
+      <label for="nombre">Nombre:</label>
+      <input type="text" id="nombre" name="nombre" required>
+
+      <label for="email">Correo Electrónico:</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="mensaje">Mensaje:</label>
+      <textarea id="mensaje" name="mensaje" rows="5" required></textarea>
+
+      <input type="submit" value="Enviar">
+    </form>
+  </section>
+
+  <footer>
+    <div class="social-icons">
+        <a href="https://github.com/tu_usuario" target="_blank">
+          <img src="../assets/github.png" alt="GitHub">
+        </a>
+        <a href="https://itch.io/tu_usuario" target="_blank">
+          <img src="../assets/itchio.png" alt="Itch.io">
+        </a>
+        <a href="https://instagram.com/tu_usuario" target="_blank">
+          <img src="../assets/instagram.png" alt="Instagram">
+        </a>
+        <a href="https://twitter.com/tu_usuario" target="_blank">
+          <img src="../assets/twitter.png" alt="Twitter">
+        </a>
+    </div>
+    <p>&copy; 2024 Barsino.</p>
+  </footer>
+
+  <script src="../code/js/script.js"></script>
+</body>
+</html>

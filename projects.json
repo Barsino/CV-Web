@@ -4,7 +4,14 @@
       "title": "Proyecto Videojuego 1",
       "type": "gif",
       "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gif/Anim2.gif"
+      "media": "./assets/gifs/Anim2.gif"
+    },
+    {
+      "category": "videojuegos",
+      "title": "Proyecto Videojuego 1",
+      "type": "gif",
+      "thumbnail": "./assets/img/Logo_azul.png",
+      "media": "./assets/gifs/Anim2.gif"
     },
     {
       "category": "videojuegos",
@@ -18,48 +25,41 @@
       "title": "Proyecto Videojuego 1",
       "type": "gif",
       "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gif/Anim2.gif"
+      "media": "./assets/gifs/Anim2.gif"
     },
     {
       "category": "videojuegos",
       "title": "Proyecto Videojuego 1",
       "type": "gif",
       "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gif/Anim2.gif"
+      "media": "./assets/gifs/Anim2.gif"
     },
     {
       "category": "videojuegos",
       "title": "Proyecto Videojuego 1",
       "type": "gif",
       "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gif/Anim2.gif"
+      "media": "./assets/gifs/Anim2.gif"
     },
     {
       "category": "videojuegos",
       "title": "Proyecto Videojuego 1",
       "type": "gif",
       "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gif/Anim2.gif"
-    },
-    {
-      "category": "videojuegos",
-      "title": "Proyecto Videojuego 1",
-      "type": "gif",
-      "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gif/Anim2.gif"
+      "media": "./assets/gifs/Anim2.gif"
     },
     {
       "category": "3d",
       "title": "Proyecto 3D 1",
       "type": "gif",
       "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gif/Anim2.gif"
+      "media": "./assets/gifs/Anim2.gif"
     },
     {
       "category": "apps",
       "title": "Proyecto App 1",
       "type": "gif",
       "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gif/Anim2.gif"
+      "media": "./assets/gifs/Anim2.gif"
     }
 ]

@@ -1,65 +1,68 @@
 [
     {
       "category": "videojuegos",
-      "title": "Proyecto Videojuego 1",
-      "type": "gif",
-      "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gifs/Anim2.gif"
+      "title": "Rising Flames",
+      "type": "video",
+      "thumbnail": "./assets/proyects/videogames/RisingFlames_IMG.png",
+      "media": "./assets/proyects/videogames/RisingFlames_CLIP.mp4",
+      "url": "https://github.com/Barsino/Rising_Flames"
     },
     {
       "category": "videojuegos",
-      "title": "Proyecto Videojuego 1",
-      "type": "gif",
-      "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gifs/Anim2.gif"
+      "title": "Space Invaders",
+      "type": "video",
+      "thumbnail": "./assets/proyects/videogames/SpaceInvaders_IMG.png",
+      "media": "./assets/proyects/videogames/SpaceInvaders_CLIP.mp4",
+      "url": "https://github.com/Barsino/Space-Invaders_Js"
     },
     {
       "category": "videojuegos",
-      "title": "Proyecto Videojuego 1",
-      "type": "gif",
-      "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gif/Anim2.gif"
+      "title": "Race Game",
+      "type": "video",
+      "thumbnail": "./assets/proyects/videogames/RaceGame_IMG.png",
+      "media": "./assets/proyects/videogames/RaceGame_CLIP.mp4",
+      "url": "https://github.com/Barsino/ESNE_Cars"
     },
     {
       "category": "videojuegos",
-      "title": "Proyecto Videojuego 1",
-      "type": "gif",
-      "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gifs/Anim2.gif"
+      "title": "Path Finding IA",
+      "type": "video",
+      "thumbnail": "./assets/proyects/videogames/PathFinding_IMG.png",
+      "media": "./assets/proyects/videogames/PathFinding_CLIP.mp4",
+      "url": "https://github.com/Barsino/Path_Finding_IA"
     },
     {
       "category": "videojuegos",
-      "title": "Proyecto Videojuego 1",
-      "type": "gif",
-      "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gifs/Anim2.gif"
-    },
-    {
-      "category": "videojuegos",
-      "title": "Proyecto Videojuego 1",
-      "type": "gif",
-      "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gifs/Anim2.gif"
-    },
-    {
-      "category": "videojuegos",
-      "title": "Proyecto Videojuego 1",
-      "type": "gif",
-      "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gifs/Anim2.gif"
+      "title": "Conect4",
+      "type": "video",
+      "thumbnail": "./assets/proyects/videogames/Conect4_IMG.png",
+      "media": "./assets/proyects/videogames/Conect4_CLIP.mp4",
+      "url": ""
     },
     {
       "category": "3d",
       "title": "Proyecto 3D 1",
-      "type": "gif",
-      "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gifs/Anim2.gif"
+      "type": "carousel",
+      "images": [
+        "./assets/proyects/3D/proyect3D01_1.png",
+        "./assets/proyects/3D/proyect3D01_2.png",
+        "./assets/proyects/3D/proyect3D01_3.png",
+        "./assets/proyects/3D/proyect3D01_4.png",
+        "./assets/proyects/3D/proyect3D01_5.png",
+        "./assets/proyects/3D/proyect3D01_6.png"
+      ]
     },
     {
-      "category": "apps",
-      "title": "Proyecto App 1",
-      "type": "gif",
-      "thumbnail": "./assets/img/Logo_azul.png",
-      "media": "./assets/gifs/Anim2.gif"
+      "category": "3d",
+      "title": "Proyecto 3D 2",
+      "type": "carousel",
+      "images": [
+        "./assets/proyects/3D/proyect3D02_1.png",
+        "./assets/proyects/3D/proyect3D02_2.png",
+        "./assets/proyects/3D/proyect3D02_3.png",
+        "./assets/proyects/3D/proyect3D02_4.png",
+        "./assets/proyects/3D/proyect3D02_5.png",
+        "./assets/proyects/3D/proyect3D02_6.png"
+      ]
     }
 ]
